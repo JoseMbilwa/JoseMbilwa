@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Lwambi
-- 👀 I’m interested in coding platforms such as Java, Python, JavaScript, C++, C and so much more.
-- 🌱 I’m currently learning Java and Javascript.
+- 👀 I’m interested in coding platforms such as Java, ReactJS, NodeJS, HTML, SQL, JavaScript, C++, C and so much more.
+- 🌱 I’m currently learning ReactJS and NodeJS.
 - 💞️ I’m looking to collaborate on building projects such as web applications and android applications. 
 - 📫 How to reach me through @jose_mbilwa_ on instagram, @jlwambi2000@gmail.com (email) or Jose Mbilwa on facebook.
 
